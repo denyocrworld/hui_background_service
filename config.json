@@ -1,0 +1,8 @@
+{
+    "modules": [
+        "demo"
+    ],
+    "module_directory_name": "module",
+    "experimental_mode": false,
+    "unfreezed": true
+}
